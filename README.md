@@ -72,10 +72,14 @@ Múltiples declaraciones CSS están separadas por punto y coma, y ​​los bloq
 ## Ejercicios
 
 1. Para realizar con el profesor:
+
   - Crearemos un html y escribiremos en el documento nuestro famoso "Hello World" dentro de un título de primer nivel (__h1__). Trabajaremos con el __color__ property
     - Utilizaremos un fichero externo llamado "style.css" para poner el __body__ del documento con color de fuente rojo
     - Utilizaremos una etiqueta __style__ para poner el color _tomato_ en la etiqueta __body__ 
     - Utilizaremos __CSS inline__ para poner el color de texto amarillo a la etiqueta body
+
 2. Realizar los 4 primeros ejercicos propuestos por bluuweb
 
 [CSS selectors](https://www.w3schools.com/css/exercise.asp?filename=exercise_selectors1)
+
+3. Realizar el ejercicio de texto del siguiente [enlace](https://github.com/webferrol/css-simple-text)
