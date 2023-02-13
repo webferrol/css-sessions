@@ -1,9 +1,5 @@
 # <abbr title="Cascading Style Sheets">CSS</abbr>
 
-## Sesión 1
-
-## Terminar el último formulario pendiente
-
 ## Qué es CSS
 
 __CSS__ es el _acrónimo_ o _abreviatura_ de "Hojas de estilo en Cascada". Se trata de
@@ -71,15 +67,41 @@ Múltiples declaraciones CSS están separadas por punto y coma, y ​​los bloq
 
 ## Ejercicios
 
-1. Para realizar con el profesor:
-
-  - Crearemos un html y escribiremos en el documento nuestro famoso "Hello World" dentro de un título de primer nivel (__h1__). Trabajaremos con el __color__ property
-    - Utilizaremos un fichero externo llamado "style.css" para poner el __body__ del documento con color de fuente rojo
-    - Utilizaremos una etiqueta __style__ para poner el color _tomato_ en la etiqueta __body__ 
-    - Utilizaremos __CSS inline__ para poner el color de texto amarillo a la etiqueta body
+1. Crearemos un html y escribiremos en el documento nuestro famoso "Hello World" dentro de un título de primer nivel (__h1__). Trabajaremos con el __color__ property
+  - Utilizaremos un fichero externo llamado "style.css" para poner el __body__ del documento con color de fuente rojo
+  - Utilizaremos una etiqueta __style__ para poner el color _tomato_ en la etiqueta __body__ 
+  - Utilizaremos __CSS inline__ para poner el color de texto amarillo a la etiqueta body
 
 2. Realizar los 4 primeros ejercicos propuestos por bluuweb
 
 [CSS selectors](https://www.w3schools.com/css/exercise.asp?filename=exercise_selectors1)
 
 3. Realizar el ejercicio de texto del siguiente [enlace](https://github.com/webferrol/css-simple-text)
+
+4. Copia el siguiente código en un archivo __html__
+
+```html
+<form action="procesar.php" method="post">
+  <label>Usuario</label>  
+  <input type="text" id="nombre" name="nombre" placeholder="Nombre de usuario">
+  <label>Contraseña</label>  
+  <input type="password" id="clave" name="clave" placeholder="Contraseña">  
+  <input type="submit" value="Enviar">  
+</form>
+```
+- ¿Qué fallo tiene el formulario de arriba?
+- Sin tocar la etiquetas del formulario intenta con CSS obtener el siguiente resultado:
+
+![Resultado](./assets/screenshot-form-css.png)
+
+6. Intenta reproducir eh HTML y CSS de la captura que viene a continuación
+
+![card](./assets/screenshot-card.png)
+
+5. [Frontend Mentor - Article preview component](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
+
+# Sesión 2
+
+## [Box Model](https://drive.google.com/file/d/1Yh3GQitJgldK16cjelrtfM4tbsuXEI52/view?usp=sharing)
+
+Apuntes de box Model
