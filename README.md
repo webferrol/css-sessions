@@ -65,6 +65,11 @@ Múltiples declaraciones CSS están separadas por punto y coma, y ​​los bloq
 
 [Selectores](https://bluuweb.dev/02-css/#selectores)
 
+## Box Model
+[Apuntes del Box Model](https://drive.google.com/file/d/1Yh3GQitJgldK16cjelrtfM4tbsuXEI52/view?usp=sharing)
+
+![Box Model](./assets/boxmodel.gif)
+
 ## Ejercicios
 
 1. Crearemos un html y escribiremos en el documento nuestro famoso "Hello World" dentro de un título de primer nivel (__h1__). Trabajaremos con el __color__ property
@@ -98,10 +103,16 @@ Múltiples declaraciones CSS están separadas por punto y coma, y ​​los bloq
 
 ![card](./assets/screenshot-card.png)
 
-5. [Frontend Mentor - Article preview component](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
+5. Resuelve este reto:
 
-# Sesión 2
+[Frontend Mentor - Article preview component](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
 
-## [Box Model](https://drive.google.com/file/d/1Yh3GQitJgldK16cjelrtfM4tbsuXEI52/view?usp=sharing)
+## Sesión 3
 
-Apuntes de box Model
+## Position property
+
+[Apuntes de position](https://classroom.google.com/c/NTg1NzUzMzgzNTUy/m/NTkyMzY0MDcwNjg5/details)
+
+![Position](./assets/position.webp)
+
+- Realizar reto frontend mentor
