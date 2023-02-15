@@ -70,6 +70,10 @@ Múltiples declaraciones CSS están separadas por punto y coma, y ​​los bloq
 
 ![Box Model](./assets/boxmodel.gif)
 
+[Apuntes de position](https://classroom.google.com/c/NTg1NzUzMzgzNTUy/m/NTkyMzY0MDcwNjg5/details)
+
+![Position](./assets/position.webp)
+
 ## Ejercicios
 
 1. Crearemos un html y escribiremos en el documento nuestro famoso "Hello World" dentro de un título de primer nivel (__h1__). Trabajaremos con el __color__ property
@@ -107,12 +111,8 @@ Múltiples declaraciones CSS están separadas por punto y coma, y ​​los bloq
 
 [Frontend Mentor - Article preview component](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
 
-## Sesión 3
+## Sesión 4
 
-## Position property
-
-[Apuntes de position](https://classroom.google.com/c/NTg1NzUzMzgzNTUy/m/NTkyMzY0MDcwNjg5/details)
-
-![Position](./assets/position.webp)
-
-- Realizar reto frontend mentor
+## Flex
+[Repaso de los conceptos nuevos] (https://bluuweb.dev/02-css/02-css-intermedio.html)
+[Bloque teórico de Flexbox] (https://classroom.google.com/c/NTg1NzUzMzgzNTUy/m/NTYyOTQ2NTM5NDg2/details)
