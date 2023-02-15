@@ -114,5 +114,6 @@ Múltiples declaraciones CSS están separadas por punto y coma, y ​​los bloq
 ## Sesión 4
 
 ## Flex
-[Repaso de los conceptos nuevos] (https://bluuweb.dev/02-css/02-css-intermedio.html)
-[Bloque teórico de Flexbox] (https://classroom.google.com/c/NTg1NzUzMzgzNTUy/m/NTYyOTQ2NTM5NDg2/details)
+
+- [Repaso de los conceptos nuevos] (https://bluuweb.dev/02-css/02-css-intermedio.html)
+- [Bloque teórico de Flexbox] (https://classroom.google.com/c/NTg1NzUzMzgzNTUy/m/NTYyOTQ2NTM5NDg2/details)
