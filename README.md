@@ -66,13 +66,19 @@ Múltiples declaraciones CSS están separadas por punto y coma, y ​​los bloq
 [Selectores](https://bluuweb.dev/02-css/#selectores)
 
 ## Box Model
-[Apuntes del Box Model](https://drive.google.com/file/d/1Yh3GQitJgldK16cjelrtfM4tbsuXEI52/view?usp=sharing)
+- [Apuntes del Box Model](https://drive.google.com/file/d/1Yh3GQitJgldK16cjelrtfM4tbsuXEI52/view?usp=sharing)
 
 ![Box Model](./assets/boxmodel.gif)
 
-[Apuntes de position](https://classroom.google.com/c/NTg1NzUzMzgzNTUy/m/NTkyMzY0MDcwNjg5/details)
+- [Apuntes de position](https://classroom.google.com/c/NTg1NzUzMzgzNTUy/m/NTkyMzY0MDcwNjg5/details)
 
 ![Position](./assets/position.webp)
+
+- [Repaso de los conceptos nuevos] (https://bluuweb.dev/02-css/02-css-intermedio.html)
+
+## Flex box
+
+- [Bloque teórico de Flexbox] (https://classroom.google.com/c/NTg1NzUzMzgzNTUy/m/NTYyOTQ2NTM5NDg2/details)
 
 ## Ejercicios
 
@@ -113,9 +119,7 @@ Múltiples declaraciones CSS están separadas por punto y coma, y ​​los bloq
 
 [Solución](https://github.com/webferrol/article-preview-component-master)
 
-## Sesión 4
+## Sesión 5
 
-## Flex
+- Ejercicio de frontend mentor
 
-- [Repaso de los conceptos nuevos] (https://bluuweb.dev/02-css/02-css-intermedio.html)
-- [Bloque teórico de Flexbox] (https://classroom.google.com/c/NTg1NzUzMzgzNTUy/m/NTYyOTQ2NTM5NDg2/details)
