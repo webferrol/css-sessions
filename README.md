@@ -111,6 +111,8 @@ Múltiples declaraciones CSS están separadas por punto y coma, y ​​los bloq
 
 [Frontend Mentor - Article preview component](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
 
+[Solución](https://github.com/webferrol/article-preview-component-master)
+
 ## Sesión 4
 
 ## Flex
