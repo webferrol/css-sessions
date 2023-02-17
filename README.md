@@ -119,7 +119,11 @@ Múltiples declaraciones CSS están separadas por punto y coma, y ​​los bloq
 
 [Solución](https://github.com/webferrol/article-preview-component-master)
 
-## Sesión 5
+6. [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 
-- Ejercicio de frontend mentor
+[Solución](https://github.com/webferrol/frontend-mentor-product-preview-card-component-main)
+
+
+## Sesión 6
+grid
 
