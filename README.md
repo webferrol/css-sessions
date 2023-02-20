@@ -121,11 +121,9 @@ Múltiples declaraciones CSS están separadas por punto y coma, y ​​los bloq
 
 6. [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 
-[Solución](https://github.com/webferrol/frontend-mentor-product-preview-card-component-main)
+[Solución](https://github.com/webferrol/frontend-mentor-product-preview-card)
 
 ## Sesión siete
 
-- Intentar la instalación de FiraCode
-- Grid
 
-6. Challenge[https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1]
+6. [Challenge](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1)
