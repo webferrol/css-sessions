@@ -2,20 +2,43 @@
 
 ## Qué es CSS
 
-__CSS__ es el _acrónimo_ o _abreviatura_ de "Hojas de estilo en Cascada". Se trata de
+__CSS__ es el _acrónimo_ o _abreviatura_ de "Cascade StyleSheet" o su traducción "Hojas de Estilo en Cascada". Se trata de
 
   un __lenguaje__ usado para definir la __presentación__ de un __documento estructurado__ escrito en __HTML__ o derivados.
+
+__Hojas de estilo__ porque ahí se escriben un conjunto de __reglas__ par aplicar diseño a los documentos (generalmente __HTML__).
+
+En __cascada__ por que hay un determinado orden, __especificidad__, grado de importancia para aplicar los estilos pudiendo sobreescribirse unas a otras. Podemos imaginar la cascada de un río donde el agua desplaza otra masa de agua.
 
 Por tanto se trata de:
 
 - [x] Un lenguaje
+- [x] Tiene reglas
 - [x] Nos permite diseñar o poner bonito un HTML
+
+## Enlaces recomendados
+
+- [x] [LenguajeCSS](https://lenguajecss.com/) de [MANZ.DEV](https://manz.dev/)
+- [x] [Curso de css de Google](https://web.dev/learn/css?hl=es)
+- [x] [CSS de mdn](https://developer.mozilla.org/es/docs/Web/CSS)
 
 ## Utilizar CSS en HTML
 
+Independientemente de que utices __CSS__ o no los __browsers__ (navegaores) ya tienen integrados sus propias __hojas de estilo__
+
+<figure style="display: flex; flex-wrap: wrap; font-size: 2em;">
+  <img style="display: block; aspect-ratio: 595/234; width: 400px" alt="Hoja de estilo utilizado por un navegador" src="./assets/user-agent-stylesheet.jpg">
+  <figcaption style="box-sizing: border-box; width: 400px; padding: .5em;background-color: orange">
+    Cuando utilizas las <strong>devtools</strong> (herramientas de desarrollo) en la pestaña de estilos podemos ver las reglas que utiliza el <strong>user agent</strong> (navegador)
+</figcaption>
+</figure>
+
+## Formas de añadir nuestras hojas de estilo en cascada
+
 Existen tres formas de utilizar CSS en un __documento HTML__:
 
-- __CSS inline__. Como su nombre indica dentro de la __etiqueta de apertura__ de un __elemento HTML__ colocar el atributo __style__. Se denomina "CSS interno" puesto que las reglas van dentro del mismo documento HTML. 
+
+### 1. __CSS inline__. Como su nombre indica dentro de la __etiqueta de apertura__ de un __elemento HTML__ colocar el atributo __style__. Se denomina "CSS interno" puesto que las reglas van dentro del mismo documento HTML. 
 
 ```html
 <body style="margin: 0;color: #eee">
@@ -23,17 +46,20 @@ Existen tres formas de utilizar CSS en un __documento HTML__:
 </body>
 ```
 
-- Utilizando etiquetas __style__ (normalmente dentro del elemento __head__). También se trata de "CSS interno".
+### 2. Utilizando la __etiqueta__ &lt;style>
 
 ```html
 <style>
   body {
     margin: 0;
+    color: #eee;
   }
 </style>
 ```
 
-- Utilizando un archivo externo donde poner nuestro CSS, por tanto, "CSS externo". Para ello existe una etiqueta html denominada "link" donde indicar donde se encuentra nuestro fichero CSS. También tiene que ir en el elemento __head__.
+Normalmente esta __tag__ la verás dentro del __element__ __head__ pero no hay ningún problema en introducirla dentro del __body__
+
+### 3. Utilizando un archivo externo donde poner nuestro CSS, por tanto, "CSS externo". Para ello existe una etiqueta html denominada "link" donde indicar donde se encuentra nuestro fichero CSS. También tiene que ir en el elemento __head__.
 
 ```html
 <head>
