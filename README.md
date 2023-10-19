@@ -112,6 +112,13 @@ Múltiples declaraciones CSS están separadas por punto y coma, y ​​los bloq
     border-color: currentColor; /*Color de fuente del actual elemento o de un elemento adyacente*/
   }
 ```
+#### Aclaraciones sobre __OKLCH__
+
+  El acrónimo __OKLCH__ se refiere a un espacio de color perceptual que fue desarrollado por la compañía __Google__. OKLCH es un acrónimo de:
+
+  * O: Lightness, o luminosidad.
+  * K: Chroma, o crominancia.
+  * L: Hue, o matiz.
 
 ## Box Model
 - [Apuntes del Box Model](https://drive.google.com/file/d/1Yh3GQitJgldK16cjelrtfM4tbsuXEI52/view?usp=sharing)
@@ -124,9 +131,27 @@ Múltiples declaraciones CSS están separadas por punto y coma, y ​​los bloq
 
 - [Repaso de los conceptos nuevos] (https://bluuweb.dev/02-css/02-css-intermedio.html)
 
+## Especificad
+
+[Calculadora de especificidad](https://specificity.keegan.st/)
+
 ## Flex box
 
 - [Bloque teórico de Flexbox] (https://classroom.google.com/c/NTg1NzUzMzgzNTUy/m/NTYyOTQ2NTM5NDg2/details)
+
+## Fallback
+
+Un __fallback__ es un valor predeterminado que puede establecerse en tus estilos por si no existe soporte para el valor o propiedad que realmente quieres usar.
+
+En el siguiente ejemplo aprovechamos la __cascada__:
+
+```css
+    body {
+      text-transform: uppercase;
+      color: #b88bc8;
+      color: oklch(70% 0.1 317);
+    }
+```
 
 ## Ejercicios
 
