@@ -93,6 +93,26 @@ Múltiples declaraciones CSS están separadas por punto y coma, y ​​los bloq
 
 [Selectores](https://bluuweb.dev/02-css/#selectores)
 
+### Color
+
+  Hay varias formas de obtener un color de fuente
+
+```css
+  body {
+    color: #00000066; /* Los dos últimos valores marcan la opacidad*/
+    color: rgba(0, 0, 0, 50%);
+    color: rgb(0 0 0 / 50%); /* Forma moderna de rgb*/
+    color: hsl(60, 100%, 100%);
+    color: oklch(348 83% 44% / 50%); /*Forma con más colores que los valores anteriores*/
+    color: transparent;
+  }
+
+  h1 {
+    border-width: 2px;
+    border-color: currentColor; /*Color de fuente del actual elemento o de un elemento adyacente*/
+  }
+```
+
 ## Box Model
 - [Apuntes del Box Model](https://drive.google.com/file/d/1Yh3GQitJgldK16cjelrtfM4tbsuXEI52/view?usp=sharing)
 
