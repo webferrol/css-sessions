@@ -129,6 +129,7 @@ Múltiples declaraciones CSS están separadas por punto y coma, y ​​los bloq
 
 ![Position](./assets/position.webp)
 
+- [Contextos de apilamiento. Para entender z-index](https://developer.mozilla.org/es/docs/Web/CSS/CSS_positioned_layout/Understanding_z-index/Stacking_context)
 - [Repaso de los conceptos nuevos] (https://bluuweb.dev/02-css/02-css-intermedio.html)
 
 ## Especificad
