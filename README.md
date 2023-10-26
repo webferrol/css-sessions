@@ -114,16 +114,16 @@ Múltiples declaraciones CSS están separadas por punto y coma, y ​​los bloq
 ```
 #### Aclaraciones sobre __OKLCH__
 
-  El acrónimo __OKLCH__ se refiere a un espacio de color perceptual que fue desarrollado por la compañía __Google__. OKLCH es un acrónimo de:
+  El acrónimo [__OKLCH__](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/oklch) se refiere a un espacio de color perceptual que fue desarrollado por la compañía __Google__.
 
-  * O: Lightness, o luminosidad.
-  * K: Chroma, o crominancia.
-  * L: Hue, o matiz.
+  [La función OKLCH](https://lenguajecss.com/css/colores/funcion-lch/)
 
 ## Box Model
 - [Apuntes del Box Model](https://drive.google.com/file/d/1Yh3GQitJgldK16cjelrtfM4tbsuXEI52/view?usp=sharing)
 
 ![Box Model](./assets/boxmodel.gif)
+
+[Nuevas especificaciones del modelo caja](https://lenguajecss.com/css/modelo-de-cajas/propiedades-logicas-css/)
 
 - [Apuntes de position](https://classroom.google.com/c/NTg1NzUzMzgzNTUy/m/NTkyMzY0MDcwNjg5/details)
 
